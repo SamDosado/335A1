@@ -1,0 +1,19 @@
+==========================================
+Case GetVersion
+URL: https://localhost:8080/api/GetVersion
+Reponse: Correct
+Mark for this case: 1.00
+==========================================
+==========================================
+Case GetLogo
+URL: https://localhost:8080/api/GetLogo
+Content-Type: Correct
+Logo: Correct
+Mark for this case: 2
+==========================================
+==========================================
+Case AllItems: 
+UPI: https://localhost:8080/api/AllItems
+Returned records: Correct
+Mark for this case: 2.00
+==========================================
